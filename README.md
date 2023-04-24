@@ -44,7 +44,9 @@ cd src && yarn add body-parser@1.20.2 cross-fetch@3.1.5 eventsource-parser@0.1.0
 
 打开应用的机器人应用功能
 
-![图 10](images/7909aa88d14aaefe5ce12950f9393e1c994e4159b3974587c4b107d4aaa7b2ff.png)  
+<!-- ![图 10](images/7909aa88d14aaefe5ce12950f9393e1c994e4159b3974587c4b107d4aaa7b2ff.png)   -->
+![图 17](images/0dd10adfff33b2a3b284462731ca4ffea8c73280782d82555babde363bec86aa.png)  
+
 
 ### 3. 访问 [AirCode](https://aircode.io/dashboard) ，创建一个新的项目
 
@@ -56,7 +58,9 @@ cd src && yarn add body-parser@1.20.2 cross-fetch@3.1.5 eventsource-parser@0.1.0
 
 访问[app.js](/app.js)，复制代码
 
-![图 12](images/78cfa3b753c75117440182765d2f4cb9a33be98c59bcb30081424b9a008b36f8.png)  
+<!-- ![图 12](images/78cfa3b753c75117440182765d2f4cb9a33be98c59bcb30081424b9a008b36f8.png)   -->
+![图 19](images/9da3517fffb88a4d8d8ff7add6cb602c9dcff054c191bb9754353bd18819e86b.png)  
+
 
 
 
@@ -100,7 +104,9 @@ cd src && yarn add body-parser@1.20.2 cross-fetch@3.1.5 eventsource-parser@0.1.0
 然后回到 AirCode ，复制函数的调用地址。
 然后回到事件订阅界面，添加事件。
 
-![图 16](images/2e44a4f3e6a53dbce106d75139c6f125e653b8c770c9d738937644d210b38c41.png)  
+<!-- ![图 16](images/2e44a4f3e6a53dbce106d75139c6f125e653b8c770c9d738937644d210b38c41.png)   -->
+![图 18](images/ae1d98dfcb6fe4a3eaf7ffa397a9797b20b020476d97b1bdd6c76bf730c358a2.png)  
+
 
 ### 8. 发布版本，等待审核
 
