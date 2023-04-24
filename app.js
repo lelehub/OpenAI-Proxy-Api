@@ -146,7 +146,7 @@ async function getOpenAIReply(prompt) {
   var config = {
     method: "post",
     maxBodyLength: Infinity,
-    url: "https://service-cm9xi0g0-1258310816.jp.apigw.tencentcs.com/release/v1/chat/completions",
+    url: "https://XXXXXXXXXXXX.tencentcs.com/release/v1/chat/completions",
     headers: {
       Authorization: `Bearer ${OPENAI_KEY}`,
       "Content-Type": "application/json",
