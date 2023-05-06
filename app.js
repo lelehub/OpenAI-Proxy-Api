@@ -1,4 +1,4 @@
-// @version 0.0.9 调整了 axios 的报错的输出，以便于调试。
+// 调整了 axios 的报错的输出，以便于调试。
 const aircode = require("aircode");
 const lark = require("@larksuiteoapi/node-sdk");
 var axios = require("axios");
